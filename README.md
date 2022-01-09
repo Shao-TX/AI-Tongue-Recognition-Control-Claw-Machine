@@ -1,8 +1,12 @@
 # AI-Tongue-Recognition-Control-Claw-Machine
-利用辨識舌頭上下左右控制夾娃娃機的前後左右
+
+[![hackmd-github-sync-badge](https://hackmd.io/UPWZnpdvTUuQMMEeAAKW8Q/badge)](https://hackmd.io/UPWZnpdvTUuQMMEeAAKW8Q)
+
+Control the front, back, left and right of the claw machine by using recognition tongue
+
 
 ## Hardware
-使用雷切與Arduino製作
+Using Laser Cutting & Arduino
 ![Hardware](https://i.imgur.com/PEPxhPz.jpg)
 
 ## Software
