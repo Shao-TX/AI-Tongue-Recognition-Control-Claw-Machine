@@ -13,6 +13,9 @@ Using Laser Cutting & Arduino
 1. Arduino IDE
 2. Python
 
+## Result
+[Video](https://youtu.be/sLi8vGLj7lY)
+
 ## Device Used
 
 | Device |     Type     |
